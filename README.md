@@ -11,7 +11,7 @@ Require C++11 and Qt 5.4 later
 3.*qcustomplot* is a plugin for plotting curve. If there is any issue with its DLL, please recompile its source in folder **qcustomplot-source**
 
 # Showcase
-[Base UI](Showcases/BaseUI.png)
-[Import Image](Showcases/Origin.png)
-[Grayscale](Showcases/Grayscale.png)
-[Histogram Equalization](Showcases/Equalization.png)
+![Base UI](Showcases/BaseUI.png)
+![Import Image](Showcases/Origin.png)
+![Grayscale](Showcases/Grayscale.png)
+![Histogram Equalization](Showcases/Equalization.png)
