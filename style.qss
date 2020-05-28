@@ -1,0 +1,5 @@
+QPushButton#loadFileButton{
+    width: 100px;
+    height: 50px;
+    font: 18pt;
+}
