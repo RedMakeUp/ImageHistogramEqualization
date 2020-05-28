@@ -3,7 +3,7 @@ Import an image, then perform grayscale and finally equalize its histogram
 <br/>
 Test on Windows10, but not rely on it in theory<br/>
 Compiled on MinGw 7.3.0 64-bit<br/>
-Require C++11 and Qt 5.4 later<br/>
+Require C++17 and Qt 5.4 later<br/>
 
 # Note
 1.The core algorithms for image processing is in *ImageDealer.h/cpp*, other files are used to interact with GUI(Qt).<br/>
