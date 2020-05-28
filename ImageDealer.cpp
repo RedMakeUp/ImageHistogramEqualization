@@ -1,10 +1,5 @@
 #include "ImageDealer.h"
 
-#include <QDebug>
-#include <QPixmap>
-#include <QImage>
-#include <QRgb>
-
 #include <vector>
 #include <algorithm>
 
